@@ -23,4 +23,4 @@ Use this as a reference for future workloads and automation.
 
 ## Sections
 
-- [Oracle](docs/oracle/oracle)
+- [Oracle](docs/oracle)
